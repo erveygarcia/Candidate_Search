@@ -4,7 +4,7 @@ A TypeScript + React app that allows employers to browse potential candidates us
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the app on Render](https://your-app-name.onrender.com)
+👉 [Click here to view the app on Render](https://candidate-search-6mdn.onrender.com)
 
 ## ![alt text](image.png)
 
